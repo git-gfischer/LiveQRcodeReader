@@ -1,0 +1,3 @@
+pyzbar
+numpy
+opencv-python
